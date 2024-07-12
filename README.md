@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-My name is Avinash Bisram! I am an avid learner with a B.S. in Computer Science and (soon) an M.S. in Data Science.  
+My name is Avinash Bisram! I am an avid learner with a B.S. in Computer Science and an M.S. in Data Science.  
 
-I love learning new topics in statistics, data analyis, and machine learning. On my profile, I feature personal projects where I try to apply my new knowledge and tackle interesting problems!
+I love learning new topics in statistics, data analysis, and machine learning. On my profile, I feature personal projects where I try to apply my new knowledge and tackle interesting problems!
 
 **Languages**: Python, SQL, R  
-**Software**: Tableau, Microsoft Excel  
+**Software**: Tableau, Microsoft Excel, Jupyter Notebooks  
 **Processes**: Data Cleaning, Exploratory Data Analysis, Creating Dashboards, Making Predictive Models
 
 **Projects:**
